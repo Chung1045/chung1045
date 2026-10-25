@@ -1,14 +1,14 @@
 ## Code with personality and style. This is Wai Chung. 👋
 ![banner](https://github.com/user-attachments/assets/f36e8563-50d6-42bc-a457-292ffe17779a)
-Final year student turning ideas into code. Building projects, learning fast, and ready for my first dev role.
+Turning ideas into code. Building projects, learning fast, and ready dev role.
 
 
 ### 📔 Knowing me 
-🎓 Expected to graduate in June 2026 with a degree in Computer Science
+🎓 Computer Science Graduate
 
 💻 Love working with NodeJS, Java, and Android Development
 
-💼 Open to Software Engineering roles starting in late April and May 2026
+💼 Open to Software Engineering / Programming roles
 
 ### 🌐 I speak in 
 JavaScript • Java • Python • Kotlin
